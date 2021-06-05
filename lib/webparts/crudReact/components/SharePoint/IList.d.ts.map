@@ -1,0 +1,1 @@
+{"version":3,"file":"IList.d.ts","sourceRoot":"","sources":["../../../../../src/webparts/crudReact/components/SharePoint/IList.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,KAAK;IACpB,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,CAAC,KAAK,EAAE,MAAM,GAAG,GAAG,CAAC;CACtB;AAED,MAAM,WAAW,eAAe;IAC9B,KAAK,EAAE,KAAK,EAAE,CAAC;CAChB"}
